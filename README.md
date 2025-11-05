@@ -1,2 +1,7 @@
 # gitbutler-demo
-Demo Repository for GitButler/Gerrit integration
+
+Julius Caesar walks into a bar and ask for a martinum
+
+The bartender says:"You mean Martini"
+
+Caesar replies:"No, I only want one"
