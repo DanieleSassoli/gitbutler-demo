@@ -1,2 +1,3 @@
 # gitbutler-demo
-Demo Repository for GitButler/Gerrit integration
+
+Julius ceaser walks into a bar and ask for a martinum
